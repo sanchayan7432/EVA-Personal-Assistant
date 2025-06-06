@@ -31,7 +31,6 @@ Install dependencies:
 pip install -r requirements.txt
 
 🚀 Running the Assistant
-```bash
 python eva.py
 Then speak your query (e.g., "Play Shape of You on YouTube", "Generate image of a futuristic city", "What is AI?").
 
@@ -43,4 +42,6 @@ MIT License
 
 👨‍💻 Author
 Developed by Sanchayan Ghosh
+```
 
+##You can easily install the Eva.exe file from this link : "https://drive.google.com/file/d/1a3ORwDGuVGfh_LpTi7-0ypqcw4VDGn2z/view?usp=sharing"
