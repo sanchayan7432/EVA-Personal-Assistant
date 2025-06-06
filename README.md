@@ -31,7 +31,7 @@ Install dependencies:
 pip install -r requirements.txt
 
 🚀 Running the Assistant
-python eva.py
+python eva.py   ## main python file
 Then speak your query (e.g., "Play Shape of You on YouTube", "Generate image of a futuristic city", "What is AI?").
 
 🔒 Security
